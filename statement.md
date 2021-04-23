@@ -9,7 +9,7 @@ public class Main {
 public static void main(String[] args) {
 // }
 
-String message = "Hello World!";
+String message = "Hey! How are you doing today?";
 System.out.println(message);
 
 //{ autofold
